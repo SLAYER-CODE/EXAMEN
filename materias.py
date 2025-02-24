@@ -1,4 +1,4 @@
-#ESTO ES UN SCRIPT ECHO POR EDWIN PAZ
+#ESTO ES UN SCRIPT ECHO POR EP
 import requests
 import os
 from colorama import init, Fore, Back, Style
